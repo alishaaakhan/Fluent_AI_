@@ -1,1 +1,3 @@
-fluent_ai/.venv/
+.env
+workspace/
+venv/
